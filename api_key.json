@@ -1,0 +1,6 @@
+{
+    "_comment": "Base URL is going to be what you see when you sign into the cloud console like https://backup.yourDomain.com/ui/",
+    "CLIENT_ID":"##",
+    "SECRET_KEY":"####",
+    "BASE_URL":"###"
+}
